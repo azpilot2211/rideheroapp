@@ -26,7 +26,7 @@ a { color: var(--blue-light); text-decoration: none; }
 a:hover { text-decoration: underline; }
 a[href^="mailto:"] {
     cursor: pointer; /* Show hand cursor */
-    color: blue;      /* Optional: make it look like a link */
+    color: rgb(122, 122, 255);      /* Optional: make it look like a link */
     text-decoration: underline; /* Optional: underline */
 }
 
